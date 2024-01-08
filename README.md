@@ -22,3 +22,11 @@
 <img width="483" alt="image" src="https://github.com/sachnaror/DjangoCRUD/assets/9551754/e5b0698e-0112-4e3a-847a-99f41dca5bc6">
 
 
+
+
+.
+
+
+<img width="946" alt="image" src="https://github.com/sachnaror/DjangoCRUD/assets/9551754/107d1431-f921-495d-a1e5-0bd56466558d">
+
+
